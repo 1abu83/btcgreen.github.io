@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.js": "/expo-gh-pages/static/js/main.2ba997a6.js",
-    "static/js/422.e23dd558.js": "/expo-gh-pages/static/js/422.e23dd558.js",
-    "static/media/news.jpg": "/expo-gh-pages/static/media/news.2f20437d1ced1dd82467.jpg",
-    "static/media/MaterialCommunityIcons.ttf": "/expo-gh-pages/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
-    "static/media/baby.jpg": "/expo-gh-pages/static/media/baby.bb5749f191396ac4c69a.jpg",
-    "static/media/miner.jpg": "/expo-gh-pages/static/media/miner.237af80d2e8bc09fc090.jpg",
-    "static/media/Ionicons.ttf": "/expo-gh-pages/static/media/Ionicons.3517aeaa34b2f8cd8eef.ttf",
-    "static/media/MaterialIcons.ttf": "/expo-gh-pages/static/media/MaterialIcons.120b4c7bbd155bd0a04d.ttf",
-    "static/media/FontAwesome.ttf": "/expo-gh-pages/static/media/FontAwesome.1e59d2330b4c6deb84b3.ttf",
-    "static/media/market.png": "/expo-gh-pages/static/media/market.50f26527ab814135f2de.png",
-    "favicon.ico": "/expo-gh-pages/favicon.ico",
-    "static/media/gretvenwallet.png": "/expo-gh-pages/static/media/gretvenwallet.b17d8850afd8a6863439.png",
-    "static/media/treding.png": "/expo-gh-pages/static/media/treding.b1b3944ffe8899fe8ef5.png",
-    "index.html": "/expo-gh-pages/index.html",
-    "favicon-32.png": "/expo-gh-pages/favicon-32.png",
-    "favicon-16.png": "/expo-gh-pages/favicon-16.png",
-    "serve.json": "/expo-gh-pages/serve.json",
-    "manifest.json": "/expo-gh-pages/manifest.json",
-    "main.2ba997a6.js.map": "/expo-gh-pages/static/js/main.2ba997a6.js.map",
-    "422.e23dd558.js.map": "/expo-gh-pages/static/js/422.e23dd558.js.map"
+    "main.js": "/btcgreen.github.io/static/js/main.c4f856cc.js",
+    "static/js/422.1bde6ea5.js": "/btcgreen.github.io/static/js/422.1bde6ea5.js",
+    "static/media/news.jpg": "/btcgreen.github.io/static/media/news.2f20437d1ced1dd82467.jpg",
+    "static/media/MaterialCommunityIcons.ttf": "/btcgreen.github.io/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
+    "static/media/baby.jpg": "/btcgreen.github.io/static/media/baby.bb5749f191396ac4c69a.jpg",
+    "static/media/miner.jpg": "/btcgreen.github.io/static/media/miner.237af80d2e8bc09fc090.jpg",
+    "static/media/Ionicons.ttf": "/btcgreen.github.io/static/media/Ionicons.3517aeaa34b2f8cd8eef.ttf",
+    "static/media/MaterialIcons.ttf": "/btcgreen.github.io/static/media/MaterialIcons.120b4c7bbd155bd0a04d.ttf",
+    "static/media/FontAwesome.ttf": "/btcgreen.github.io/static/media/FontAwesome.1e59d2330b4c6deb84b3.ttf",
+    "static/media/market.png": "/btcgreen.github.io/static/media/market.50f26527ab814135f2de.png",
+    "favicon.ico": "/btcgreen.github.io/favicon.ico",
+    "static/media/gretvenwallet.png": "/btcgreen.github.io/static/media/gretvenwallet.b17d8850afd8a6863439.png",
+    "static/media/treding.png": "/btcgreen.github.io/static/media/treding.b1b3944ffe8899fe8ef5.png",
+    "index.html": "/btcgreen.github.io/index.html",
+    "favicon-32.png": "/btcgreen.github.io/favicon-32.png",
+    "favicon-16.png": "/btcgreen.github.io/favicon-16.png",
+    "serve.json": "/btcgreen.github.io/serve.json",
+    "manifest.json": "/btcgreen.github.io/manifest.json",
+    "main.c4f856cc.js.map": "/btcgreen.github.io/static/js/main.c4f856cc.js.map",
+    "422.1bde6ea5.js.map": "/btcgreen.github.io/static/js/422.1bde6ea5.js.map"
   },
   "entrypoints": [
-    "static/js/422.e23dd558.js",
-    "static/js/main.2ba997a6.js"
+    "static/js/422.1bde6ea5.js",
+    "static/js/main.c4f856cc.js"
   ]
 }
